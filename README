@@ -1,0 +1,3 @@
+# Help
+
+Saved as a reference. It is recommended to change the username and password (and potentially the host/container name for postgres) across docker-compose.yml, pgadmin-server.json, and pgadmin-pgpass.txt) to the name of your project before use. Otherwise use this to experiment with pgAdmin or start a project utilizing postgres either by using it as a base or merging into your existing project.
